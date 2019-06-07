@@ -1,2 +1,2 @@
 # mytest
-my repository
+my repository for git demonstration purpose.
